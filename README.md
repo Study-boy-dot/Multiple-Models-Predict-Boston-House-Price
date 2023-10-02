@@ -1,6 +1,6 @@
 # Multiple-Models-Predict-Boston-House-Price
-Using multiple models to predict the Boston House Price
-Dataset: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
+Using multiple models to predict the Boston House Price  
+Dataset: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices  
 My Kaggle Code: https://www.kaggle.com/code/dataminingee/multiple-models-predict-boston-house-price
 
 ## Environment
